@@ -10,7 +10,6 @@ html {
 *:after {
   box-sizing: inherit;
 }
-
 body,
 h1,
 h2,
@@ -32,7 +31,7 @@ body {
 }
 
 .header-image {
-  background: url(/apple-pie/pic.jpeg);
+  background: url(./pic.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
